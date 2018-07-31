@@ -1,2 +1,2 @@
 # Jump-Start
-Codecademy Project using jQuery js and bootstrap
+Project using jQuery js and bootstrap
